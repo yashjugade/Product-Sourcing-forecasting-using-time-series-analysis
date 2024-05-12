@@ -1,3 +1,5 @@
+Product Sourcing cost forecasting using Time series Analysis
+
 The project is about forecasting the courcing cost of items sourced in June 2021 based on data from July 2020 to May 2021 using Time series analysis.
 
 About the Project
